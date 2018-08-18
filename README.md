@@ -1,2 +1,2 @@
-# project_euler_solutions
+# Project Euler Solutions
 Project Euler Solutions Written in C
