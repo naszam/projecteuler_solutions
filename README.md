@@ -1,2 +1,2 @@
 # Project Euler Solutions
-Project Euler Solutions Written in C
+Project Euler Solutions 
